@@ -7,10 +7,15 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import Products from './products/Products.jsx';
+import Recepies from './recepies/Recepies.jsx';
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Products/>,
+  },
+   {
+    path: "/recepies",
+    element: <Recepies/>,
   },
 ]);
 
