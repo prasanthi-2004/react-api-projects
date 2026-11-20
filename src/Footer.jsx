@@ -10,11 +10,11 @@ function Footer(){
                         <h5 className="col">Developed by: Prasanthi.chitta</h5>
                         </div>
                         <div className="linkedin d-flex col ">
-                           <a href="" target="_blank" className="text-decoration-none text-light "> <i class="fa-brands fa-square-linkedin fs-4"></i></a>
+                           <a href="https://www.linkedin.com/in/chitta-prasanthi-21b4a8281/" target="_blank" className="text-decoration-none text-light "> <i class="fa-brands fa-square-linkedin fs-4"></i></a>
                             <h5>Linkedin</h5>
                         </div>
                         <div className="github d-flex col">
-                           <a href="" target="_blank"  className="text-decoration-none text-light "> <i class="fa-brands fa-github fs-4"></i></a>
+                           <a href="https://github.com/prasanthi-2004/react-api-projects" target="_blank"  className="text-decoration-none text-light "> <i class="fa-brands fa-github fs-4"></i></a>
                             <h5>Github</h5>
                         </div>
                     </div>
