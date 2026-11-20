@@ -1,0 +1,8 @@
+.card-img{
+    border-bottom: 2px solid gray;
+    margin-bottom: 10px;
+}
+.card {
+    border: 1px solid gray;
+    box-shadow: 3px 4px 5px gray;
+}
